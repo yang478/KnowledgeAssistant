@@ -1,0 +1,9 @@
+{
+  "llm": {
+    "default_model": "deepseek-chat",
+    "plan_model": "deepseek-R1"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
